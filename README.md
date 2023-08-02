@@ -1,1 +1,2 @@
-# architecture-
+# architecture
+As system designers and architects, our job during this phase was to define the methodology for the system as well as a high-level view of our system architecture, which included modeling the class, use case, and sequence diagrams as well as defining the architecture of the system and any information pertaining to the database and storage methods we will be using. We also briefly discussed the quality attributes and the quality assurance of our system. Finally, we discussed our considerations for the future and our plans for system upgrades and improvements.
